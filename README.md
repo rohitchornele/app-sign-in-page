@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to the Sign in page built using expo
 
 ## Get started
 
@@ -17,4 +17,3 @@
 # Here is the screenshot of the application built
 
 ![alt text](assets/app-screenshot.jpg)
-
